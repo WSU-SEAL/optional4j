@@ -1,0 +1,24 @@
+
+Perceived Usefulness
+	•	Using Optional4J improves the quality of the code I write.
+	•	Using Optional4J gives me greater control over my code.
+	•	Optional4J enables me to write code more quickly.
+	•	Optional4J supports critical aspects of my code.
+	•	Using Optional4J increases my productivity.
+	•	Using Optional4J improves my software development performance.
+	•	Using Optional4J allows me to write more code than would otherwise be possible.
+	•	Using Optional4J enhances my effectiveness in software development.
+	•	Using Optional4J makes it easier to write code.
+	•	Overall, I find Optional4J useful for software development.
+
+Perceived Ease of Use
+	•	I find Optional4J cumbersome to use.
+	•	Learning the Optional4J tool is easy for me.
+	•	Interacting with Optional4J is often frustrating.
+	•	I find it easy to get the Optional4J tool to do what I want it to do.
+	•	The Optional4J tool is rigid and inflexible to interact with.
+	•	It is easy for me to remember how to code for null using Optional4J.
+	•	Interacting with the Optional4J tool requires a lot of mental effort.
+	•	My interaction with the Optional4J tool is clear and understandable.
+	•	I find it takes a lot of effort to become skillful using Optional4J.
+	•	Overall, I find the Optional4J tool easy to use.

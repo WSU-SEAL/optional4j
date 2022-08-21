@@ -1,0 +1,32 @@
+Using Optional4J improves the quality of the code I write.,Using Optional4J gives me greater control over my code.,Optional4J enables me to write code more quickly.,Optional4J supports critical aspects of my code.,Using Optional4J increases my productivity.,Using Optional4J improves my software development performance.,Using Optional4J allows me to write more code than would otherwise be possible.,Using Optional4J enhances my effectiveness in software development.,Using Optional4J makes it easier to write code.,"Overall, I find Optional4J useful for software development.",I find Optional4J cumbersome to use.,Learning the Optional4J tool is easy for me.,Interacting with Optional4J is often frustrating.,I find it easy to get the Optional4J tool to do what I want it to do.,The Optional4J tool is rigid and inflexible to interact with.,It is easy for me to remember how to code for null using Optional4J.,Interacting with the Optional4J tool requires a lot of mental effort.,My interaction with the Optional4J tool is clear and understandable.,I find it takes a lot of effort to become skillful using Optional4J.,"Overall, I find the Optional4J tool easy to use."
+5,3,4,4,4,4,3,4,5,4,2,5,1,5,2,5,1,5,2,5
+4,4,4,3,4,4,4,4,4,4,1,4,1,4,2,4,2,2,2,4
+5,4,4,4,4,4,4,4,4,4,4,4,2,5,4,4,2,4,2,4
+4,4,5,5,3,5,1,4,4,4,2,3,3,4,3,4,2,4,3,4
+,,,,,,,,,,,,,,,,,,,
+4,3,5,4,5,5,4,5,5,5,2,4,3,4,4,4,3,4,4,4
+4,4,3,5,4,4,3,4,3,4,2,4,3,3,2,4,2,4,2,4
+4,3,4,4,3,4,2,4,3,4,2,4,2,4,2,4,1,4,1,4
+5,4,5,5,5,4,3,5,4,5,2,4,2,5,1,5,2,4,2,5
+5,5,3,4,3,3,2,4,3,5,2,5,1,4,1,5,3,5,3,4
+5,5,4,5,4,4,4,4,5,5,1,4,1,5,1,5,1,5,1,5
+5,5,4,5,4,5,4,4,4,5,1,5,2,3,2,4,2,2,1,5
+5,4,5,4,5,4,3,4,5,5,3,4,2,3,3,4,3,4,3,5
+5,5,5,5,5,5,5,5,5,5,4,4,2,4,2,4,2,4,4,4
+,,,,,,,,,,,,,,,,,,,
+60,53,55,57,53,55,42,55,54,59,28,54,25,53,29,56,26,51,30,57
+0.923076923,0.815384615,0.846153846,0.876923077,0.815384615,0.846153846,0.646153846,0.846153846,0.830769231,0.907692308,0.430769231,0.830769231,0.384615385,0.815384615,0.446153846,0.861538462,0.4,0.784615385,0.461538462,0.876923077
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+Using Optional4J improves the quality of the code I write.,,,,,,0.923,4.615,,I find Optional4J cumbersome to use.,,,,,,0.43076923,2.15384615,,,
+Using Optional4J gives me greater control over my code.,,,,,,0.815,4.075,,Learning the Optional4J tool is easy for me.,,,,,,0.83076923,4.15384615,,,
+Optional4J enables me to write code more quickly.,,,,,,0.846,4.23,,Interacting with Optional4J is often frustrating.,,,,,,0.38461538,1.9230769,,,
+Optional4J supports critical aspects of my code.,,,,,,0.876,4.38,,I find it easy to get the Optional4J tool to do what I want it to do.,,,,,,0.81538462,4.0769231,,,
+Using Optional4J increases my productivity.,,,,,,0.815,4.075,,The Optional4J tool is rigid and inflexible to interact with.,,,,,,0.44615385,2.23076925,,,
+Using Optional4J improves my software development performance.,,,,,,0.846,4.23,,It is easy for me to remember how to code for null using Optional4J.,,,,,,0.86153846,4.3076923,,,
+Using Optional4J allows me to write more code than would otherwise be possible.,,,,,,0.646,3.23,,Interacting with the Optional4J tool requires a lot of mental effort.,,,,,,0.4,2,,,
+Using Optional4J enhances my effectiveness in software development.,,,,,,0.846,4.23,,My interaction with the Optional4J tool is clear and understandable.,,,,,,0.78461538,3.9230769,,,
+Using Optional4J makes it easier to write code.,,,,,,0.83,4.15,,I find it takes a lot of effort to become skillful using Optional4J.,,,,,,0.46153846,2.3076923,,,
+"Overall, I find Optional4J useful for software development.",,,,,,0.907,4.535,,"Overall, I find the Optional4J tool easy to use.",,,,,,0.87692308,4.3846154,,,

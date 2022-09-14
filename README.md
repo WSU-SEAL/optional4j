@@ -22,7 +22,7 @@ For maven-based projects, add the following dependency:
 
 <dependency>
     <groupId>com.petra.optional4j</groupId>
-    <artifactId>jsr-305</artifactId>
+    <artifactId>optional4j-spec</artifactId>
     <version>${project.version}</version>
 </dependency>
 

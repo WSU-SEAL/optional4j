@@ -1,0 +1,173 @@
+Benchmark                                               (height)   Mode  Cnt          Score          Error   Units
+BasicProgram.base                                              0  thrpt    8  224947242.773 ±  1960120.017   ops/s
+BasicProgram.base:·gc.alloc.rate                               0  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.base:·gc.alloc.rate.norm                          0  thrpt    8         ≈ 10⁻⁷                   B/op
+BasicProgram.base:·gc.count                                    0  thrpt    8            ≈ 0                 counts
+BasicProgram.base                                              1  thrpt    8  217231476.935 ± 10428485.992   ops/s
+BasicProgram.base:·gc.alloc.rate                               1  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.base:·gc.alloc.rate.norm                          1  thrpt    8         ≈ 10⁻⁷                   B/op
+BasicProgram.base:·gc.count                                    1  thrpt    8            ≈ 0                 counts
+BasicProgram.base                                              2  thrpt    8  213855831.208 ±  2301529.547   ops/s
+BasicProgram.base:·gc.alloc.rate                               2  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.base:·gc.alloc.rate.norm                          2  thrpt    8         ≈ 10⁻⁷                   B/op
+BasicProgram.base:·gc.count                                    2  thrpt    8            ≈ 0                 counts
+BasicProgram.base                                              3  thrpt    8  211945226.426 ±  1059063.062   ops/s
+BasicProgram.base:·gc.alloc.rate                               3  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.base:·gc.alloc.rate.norm                          3  thrpt    8         ≈ 10⁻⁷                   B/op
+BasicProgram.base:·gc.count                                    3  thrpt    8            ≈ 0                 counts
+BasicProgram.base                                              4  thrpt    8  208149379.411 ±  1249524.053   ops/s
+BasicProgram.base:·gc.alloc.rate                               4  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.base:·gc.alloc.rate.norm                          4  thrpt    8         ≈ 10⁻⁷                   B/op
+BasicProgram.base:·gc.count                                    4  thrpt    8            ≈ 0                 counts
+BasicProgram.base                                              5  thrpt    8  196802576.195 ±  1120046.995   ops/s
+BasicProgram.base:·gc.alloc.rate                               5  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.base:·gc.alloc.rate.norm                          5  thrpt    8         ≈ 10⁻⁷                   B/op
+BasicProgram.base:·gc.count                                    5  thrpt    8            ≈ 0                 counts
+BasicProgram.base                                              6  thrpt    8  191438765.484 ±   992562.920   ops/s
+BasicProgram.base:·gc.alloc.rate                               6  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.base:·gc.alloc.rate.norm                          6  thrpt    8         ≈ 10⁻⁷                   B/op
+BasicProgram.base:·gc.count                                    6  thrpt    8            ≈ 0                 counts
+BasicProgram.guava                                             0  thrpt    8   18873577.371 ±   192308.584   ops/s
+BasicProgram.guava:·gc.alloc.rate                              0  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.guava:·gc.alloc.rate.norm                         0  thrpt    8         ≈ 10⁻⁶                   B/op
+BasicProgram.guava:·gc.count                                   0  thrpt    8            ≈ 0                 counts
+BasicProgram.guava                                             1  thrpt    8   16583267.600 ±    77611.941   ops/s
+BasicProgram.guava:·gc.alloc.rate                              1  thrpt    8        240.855 ±        1.185  MB/sec
+BasicProgram.guava:·gc.alloc.rate.norm                         1  thrpt    8         16.001 ±        0.001    B/op
+BasicProgram.guava:·gc.churn.G1_Eden_Space                     1  thrpt    8        242.522 ±       29.189  MB/sec
+BasicProgram.guava:·gc.churn.G1_Eden_Space.norm                1  thrpt    8         16.112 ±        1.931    B/op
+BasicProgram.guava:·gc.churn.G1_Survivor_Space                 1  thrpt    8          0.003 ±        0.005  MB/sec
+BasicProgram.guava:·gc.churn.G1_Survivor_Space.norm            1  thrpt    8         ≈ 10⁻⁴                   B/op
+BasicProgram.guava:·gc.count                                   1  thrpt    8         68.000                 counts
+BasicProgram.guava:·gc.time                                    1  thrpt    8         62.000                     ms
+BasicProgram.guava                                             2  thrpt    8   15013012.085 ±   395269.632   ops/s
+BasicProgram.guava:·gc.alloc.rate                              2  thrpt    8        436.025 ±       11.524  MB/sec
+BasicProgram.guava:·gc.alloc.rate.norm                         2  thrpt    8         32.003 ±        0.001    B/op
+BasicProgram.guava:·gc.churn.G1_Eden_Space                     2  thrpt    8        438.713 ±       28.278  MB/sec
+BasicProgram.guava:·gc.churn.G1_Eden_Space.norm                2  thrpt    8         32.201 ±        1.979    B/op
+BasicProgram.guava:·gc.churn.G1_Survivor_Space                 2  thrpt    8          0.003 ±        0.004  MB/sec
+BasicProgram.guava:·gc.churn.G1_Survivor_Space.norm            2  thrpt    8         ≈ 10⁻⁴                   B/op
+BasicProgram.guava:·gc.count                                   2  thrpt    8        123.000                 counts
+BasicProgram.guava:·gc.time                                    2  thrpt    8        110.000                     ms
+BasicProgram.guava                                             3  thrpt    8   13062320.346 ±   529589.847   ops/s
+BasicProgram.guava:·gc.alloc.rate                              3  thrpt    8        569.130 ±       22.967  MB/sec
+BasicProgram.guava:·gc.alloc.rate.norm                         3  thrpt    8         48.004 ±        0.001    B/op
+BasicProgram.guava:·gc.churn.G1_Eden_Space                     3  thrpt    8        570.739 ±       29.293  MB/sec
+BasicProgram.guava:·gc.churn.G1_Eden_Space.norm                3  thrpt    8         48.149 ±        2.438    B/op
+BasicProgram.guava:·gc.churn.G1_Survivor_Space                 3  thrpt    8          0.003 ±        0.001  MB/sec
+BasicProgram.guava:·gc.churn.G1_Survivor_Space.norm            3  thrpt    8         ≈ 10⁻⁴                   B/op
+BasicProgram.guava:·gc.count                                   3  thrpt    8        160.000                 counts
+BasicProgram.guava:·gc.time                                    3  thrpt    8        153.000                     ms
+BasicProgram.guava                                             4  thrpt    8   12018571.147 ±   200448.661   ops/s
+BasicProgram.guava:·gc.alloc.rate                              4  thrpt    8        698.315 ±       11.747  MB/sec
+BasicProgram.guava:·gc.alloc.rate.norm                         4  thrpt    8         64.005 ±        0.001    B/op
+BasicProgram.guava:·gc.churn.G1_Eden_Space                     4  thrpt    8        695.736 ±       28.145  MB/sec
+BasicProgram.guava:·gc.churn.G1_Eden_Space.norm                4  thrpt    8         63.769 ±        2.302    B/op
+BasicProgram.guava:·gc.churn.G1_Survivor_Space                 4  thrpt    8          0.003 ±        0.001  MB/sec
+BasicProgram.guava:·gc.churn.G1_Survivor_Space.norm            4  thrpt    8         ≈ 10⁻⁴                   B/op
+BasicProgram.guava:·gc.count                                   4  thrpt    8        195.000                 counts
+BasicProgram.guava:·gc.time                                    4  thrpt    8        172.000                     ms
+BasicProgram.guava                                             5  thrpt    8   11100780.102 ±   115130.524   ops/s
+BasicProgram.guava:·gc.alloc.rate                              5  thrpt    8        806.048 ±        8.266  MB/sec
+BasicProgram.guava:·gc.alloc.rate.norm                         5  thrpt    8         80.007 ±        0.001    B/op
+BasicProgram.guava:·gc.churn.G1_Eden_Space                     5  thrpt    8        806.103 ±       24.993  MB/sec
+BasicProgram.guava:·gc.churn.G1_Eden_Space.norm                5  thrpt    8         80.011 ±        2.213    B/op
+BasicProgram.guava:·gc.churn.G1_Survivor_Space                 5  thrpt    8          0.003 ±        0.001  MB/sec
+BasicProgram.guava:·gc.churn.G1_Survivor_Space.norm            5  thrpt    8         ≈ 10⁻³                   B/op
+BasicProgram.guava:·gc.count                                   5  thrpt    8        226.000                 counts
+BasicProgram.guava:·gc.time                                    5  thrpt    8        198.000                     ms
+BasicProgram.guava                                             6  thrpt    8   10249080.757 ±    88006.552   ops/s
+BasicProgram.guava:·gc.alloc.rate                              6  thrpt    8        893.106 ±        7.677  MB/sec
+BasicProgram.guava:·gc.alloc.rate.norm                         6  thrpt    8         96.008 ±        0.001    B/op
+BasicProgram.guava:·gc.churn.G1_Eden_Space                     6  thrpt    8        895.369 ±       28.008  MB/sec
+BasicProgram.guava:·gc.churn.G1_Eden_Space.norm                6  thrpt    8         96.251 ±        2.883    B/op
+BasicProgram.guava:·gc.churn.G1_Survivor_Space                 6  thrpt    8          0.004 ±        0.001  MB/sec
+BasicProgram.guava:·gc.churn.G1_Survivor_Space.norm            6  thrpt    8         ≈ 10⁻³                   B/op
+BasicProgram.guava:·gc.count                                   6  thrpt    8        251.000                 counts
+BasicProgram.guava:·gc.time                                    6  thrpt    8        215.000                     ms
+BasicProgram.optional                                          0  thrpt    8   16459544.997 ±   198642.786   ops/s
+BasicProgram.optional:·gc.alloc.rate                           0  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.optional:·gc.alloc.rate.norm                      0  thrpt    8         ≈ 10⁻⁶                   B/op
+BasicProgram.optional:·gc.count                                0  thrpt    8            ≈ 0                 counts
+BasicProgram.optional                                          1  thrpt    8   14533474.060 ±   125125.180   ops/s
+BasicProgram.optional:·gc.alloc.rate                           1  thrpt    8        211.085 ±        1.813  MB/sec
+BasicProgram.optional:·gc.alloc.rate.norm                      1  thrpt    8         16.001 ±        0.001    B/op
+BasicProgram.optional:·gc.churn.G1_Eden_Space                  1  thrpt    8        210.427 ±       28.211  MB/sec
+BasicProgram.optional:·gc.churn.G1_Eden_Space.norm             1  thrpt    8         15.953 ±        2.171    B/op
+BasicProgram.optional:·gc.churn.G1_Survivor_Space              1  thrpt    8          0.004 ±        0.005  MB/sec
+BasicProgram.optional:·gc.churn.G1_Survivor_Space.norm         1  thrpt    8         ≈ 10⁻³                   B/op
+BasicProgram.optional:·gc.count                                1  thrpt    8         59.000                 counts
+BasicProgram.optional:·gc.time                                 1  thrpt    8         55.000                     ms
+BasicProgram.optional                                          2  thrpt    8   12514082.003 ±   430825.019   ops/s
+BasicProgram.optional:·gc.alloc.rate                           2  thrpt    8        363.472 ±       12.463  MB/sec
+BasicProgram.optional:·gc.alloc.rate.norm                      2  thrpt    8         32.003 ±        0.001    B/op
+BasicProgram.optional:·gc.churn.G1_Eden_Space                  2  thrpt    8        367.333 ±       19.246  MB/sec
+BasicProgram.optional:·gc.churn.G1_Eden_Space.norm             2  thrpt    8         32.345 ±        1.580    B/op
+BasicProgram.optional:·gc.churn.G1_Survivor_Space              2  thrpt    8          0.003 ±        0.005  MB/sec
+BasicProgram.optional:·gc.churn.G1_Survivor_Space.norm         2  thrpt    8         ≈ 10⁻⁴                   B/op
+BasicProgram.optional:·gc.count                                2  thrpt    8        103.000                 counts
+BasicProgram.optional:·gc.time                                 2  thrpt    8         91.000                     ms
+BasicProgram.optional                                          3  thrpt    8   10691449.139 ±    74303.399   ops/s
+BasicProgram.optional:·gc.alloc.rate                           3  thrpt    8        465.817 ±        3.295  MB/sec
+BasicProgram.optional:·gc.alloc.rate.norm                      3  thrpt    8         48.004 ±        0.001    B/op
+BasicProgram.optional:·gc.churn.G1_Eden_Space                  3  thrpt    8        463.616 ±       25.169  MB/sec
+BasicProgram.optional:·gc.churn.G1_Eden_Space.norm             3  thrpt    8         47.777 ±        2.595    B/op
+BasicProgram.optional:·gc.churn.G1_Survivor_Space              3  thrpt    8          0.003 ±        0.001  MB/sec
+BasicProgram.optional:·gc.churn.G1_Survivor_Space.norm         3  thrpt    8         ≈ 10⁻⁴                   B/op
+BasicProgram.optional:·gc.count                                3  thrpt    8        130.000                 counts
+BasicProgram.optional:·gc.time                                 3  thrpt    8        116.000                     ms
+BasicProgram.optional                                          4  thrpt    8    9435322.706 ±    98511.482   ops/s
+BasicProgram.optional:·gc.alloc.rate                           4  thrpt    8        548.149 ±        5.678  MB/sec
+BasicProgram.optional:·gc.alloc.rate.norm                      4  thrpt    8         64.005 ±        0.001    B/op
+BasicProgram.optional:·gc.churn.G1_Eden_Space                  4  thrpt    8        549.394 ±       25.196  MB/sec
+BasicProgram.optional:·gc.churn.G1_Eden_Space.norm             4  thrpt    8         64.152 ±        2.955    B/op
+BasicProgram.optional:·gc.churn.G1_Survivor_Space              4  thrpt    8          0.003 ±        0.001  MB/sec
+BasicProgram.optional:·gc.churn.G1_Survivor_Space.norm         4  thrpt    8         ≈ 10⁻³                   B/op
+BasicProgram.optional:·gc.count                                4  thrpt    8        154.000                 counts
+BasicProgram.optional:·gc.time                                 4  thrpt    8        134.000                     ms
+BasicProgram.optional                                          5  thrpt    8    8541378.107 ±    69618.809   ops/s
+BasicProgram.optional:·gc.alloc.rate                           5  thrpt    8        620.309 ±        5.067  MB/sec
+BasicProgram.optional:·gc.alloc.rate.norm                      5  thrpt    8         80.007 ±        0.001    B/op
+BasicProgram.optional:·gc.churn.G1_Eden_Space                  5  thrpt    8        617.084 ±       28.252  MB/sec
+BasicProgram.optional:·gc.churn.G1_Eden_Space.norm             5  thrpt    8         79.587 ±        3.216    B/op
+BasicProgram.optional:·gc.churn.G1_Survivor_Space              5  thrpt    8          0.004 ±        0.002  MB/sec
+BasicProgram.optional:·gc.churn.G1_Survivor_Space.norm         5  thrpt    8         ≈ 10⁻³                   B/op
+BasicProgram.optional:·gc.count                                5  thrpt    8        173.000                 counts
+BasicProgram.optional:·gc.time                                 5  thrpt    8        156.000                     ms
+BasicProgram.optional                                          6  thrpt    8    7748561.212 ±    55666.289   ops/s
+BasicProgram.optional:·gc.alloc.rate                           6  thrpt    8        675.196 ±        4.831  MB/sec
+BasicProgram.optional:·gc.alloc.rate.norm                      6  thrpt    8         96.008 ±        0.001    B/op
+BasicProgram.optional:·gc.churn.G1_Eden_Space                  6  thrpt    8        677.753 ±       25.401  MB/sec
+BasicProgram.optional:·gc.churn.G1_Eden_Space.norm             6  thrpt    8         96.369 ±        3.306    B/op
+BasicProgram.optional:·gc.churn.G1_Survivor_Space              6  thrpt    8          0.004 ±        0.001  MB/sec
+BasicProgram.optional:·gc.churn.G1_Survivor_Space.norm         6  thrpt    8          0.001 ±        0.001    B/op
+BasicProgram.optional:·gc.count                                6  thrpt    8        190.000                 counts
+BasicProgram.optional:·gc.time                                 6  thrpt    8        166.000                     ms
+BasicProgram.optional4j                                        0  thrpt    8   27464912.000 ±   247478.799   ops/s
+BasicProgram.optional4j:·gc.alloc.rate                         0  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.optional4j:·gc.alloc.rate.norm                    0  thrpt    8         ≈ 10⁻⁶                   B/op
+BasicProgram.optional4j:·gc.count                              0  thrpt    8            ≈ 0                 counts
+BasicProgram.optional4j                                        1  thrpt    8   22623187.427 ±  1865378.198   ops/s
+BasicProgram.optional4j:·gc.alloc.rate                         1  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.optional4j:·gc.alloc.rate.norm                    1  thrpt    8         ≈ 10⁻⁶                   B/op
+BasicProgram.optional4j:·gc.count                              1  thrpt    8            ≈ 0                 counts
+BasicProgram.optional4j                                        2  thrpt    8   20965982.256 ±   718963.310   ops/s
+BasicProgram.optional4j:·gc.alloc.rate                         2  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.optional4j:·gc.alloc.rate.norm                    2  thrpt    8         ≈ 10⁻⁶                   B/op
+BasicProgram.optional4j:·gc.count                              2  thrpt    8            ≈ 0                 counts
+BasicProgram.optional4j                                        3  thrpt    8   14513496.679 ±  1053489.462   ops/s
+BasicProgram.optional4j:·gc.alloc.rate                         3  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.optional4j:·gc.alloc.rate.norm                    3  thrpt    8         ≈ 10⁻⁶                   B/op
+BasicProgram.optional4j:·gc.count                              3  thrpt    8            ≈ 0                 counts
+BasicProgram.optional4j                                        4  thrpt    8   13328556.804 ±   176269.871   ops/s
+BasicProgram.optional4j:·gc.alloc.rate                         4  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.optional4j:·gc.alloc.rate.norm                    4  thrpt    8         ≈ 10⁻⁵                   B/op
+BasicProgram.optional4j:·gc.count                              4  thrpt    8            ≈ 0                 counts
+BasicProgram.optional4j                                        5  thrpt    8   11913194.466 ±    96504.510   ops/s
+BasicProgram.optional4j:·gc.alloc.rate                         5  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.optional4j:·gc.alloc.rate.norm                    5  thrpt    8         ≈ 10⁻⁵                   B/op
+BasicProgram.optional4j:·gc.count                              5  thrpt    8            ≈ 0                 counts
+BasicProgram.optional4j                                        6  thrpt    8   10922313.760 ±    45140.970   ops/s
+BasicProgram.optional4j:·gc.alloc.rate                         6  thrpt    8         ≈ 10⁻⁴                 MB/sec
+BasicProgram.optional4j:·gc.alloc.rate.norm                    6  thrpt    8         ≈ 10⁻⁵                   B/op
+BasicProgram.optional4j:·gc.count                              6  thrpt    8            ≈ 0                 counts
